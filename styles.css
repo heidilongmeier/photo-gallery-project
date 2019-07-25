@@ -20,3 +20,23 @@ h1 {
   display: flex;
   justify-content: space-around;
 }
+.firstheader {
+font-weight: bold;
+margin-left: 55px;
+}
+.secondheader{
+  font-weight: bold;
+  margin-left: 55px;
+}
+.thirdheader {
+  font-weight: bold;
+  margin-left: 55px;
+}
+.fourthheader{
+  font-weight: bold;
+  margin-left: 55px;
+}
+.fifthheader{
+  font-weight: bold;
+  margin-left: 55px;
+}
